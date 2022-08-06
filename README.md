@@ -13,7 +13,7 @@
 | 8  | Courses of Programme   | 7             | Manipulable                           |        |
 | 9  | Courses of School      | 6             | Manipulable                           |        |
 | 10 | Course LO              | 9, 2, 3       | Manipulable                           |        |
-| 11 | Course Coordinators    | 10            | Manipulable                           |        |
+| 11 | Course Coordinators    | 9             | Manipulable                           |        |
 | 12 | Course of CC           | 11            | Manipulable                           |        |
 | 13 | Course Topics          | 9             | Manipulable                           |        |
 | 14 | Course Prerequiste     | 9             | Manipulable                           |        |
