@@ -9,7 +9,7 @@
 | 4  | Institutional's PEO    |               | Manipulable                           | Done   |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
-| 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
+| 7  | Programme LO           | 6, 2          | Manipulable                           |        |
 | 8  | Courses of Programme   | 7             | Manipulable                           |        |
 | 9  | Courses of School      | 6             | Manipulable                           |        |
 | 10 | Course LO              | 9, 2, 3       | Manipulable                           |        |
