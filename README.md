@@ -8,19 +8,19 @@
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C, P, A     | Done   |
 | 4  | Institutional's PEO    |               | Manipulable                           | Done   |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
-| 6  | Programme of School    |               | Manipulable                           | Done   |
-| 7  | Programme LO           | 1             | Manipulable                           | Done   |
-| 8  | Courses of Programme   |               | Manipulable                           |        |
-| 9  | Courses of School      |               | Manipulable                           |        |
-| 10 | Course LO              |               | Manipulable                           |        |
-| 11 | Course Coordinators    |               | Manipulable                           |        |
-| 12 | Course of CC           |               | Manipulable                           |        |
-| 13 | Course Topics          |               | Manipulable                           |        |
-| 14 | Course Prerequiste     |               | Manipulable                           |        |
-| 15 | Course References      |               | Manipulable                           |        |
-| 16 | Course Resources       |               | Manipulable                           |        |
-| 17 | Course Development     |               | Manipulable                           |        |
-| 18 | Course Revision        |               | Manipulable                           |        |
+| 6  | Programme of School    | 1             | Manipulable                           | Done   |
+| 7  | Programme LO           | 6             | Manipulable                           | Done   |
+| 8  | Courses of Programme   | 7             | Manipulable                           |        |
+| 9  | Courses of School      | 6             | Manipulable                           |        |
+| 10 | Course LO              | 9             | Manipulable                           |        |
+| 11 | Course Coordinators    | 10            | Manipulable                           |        |
+| 12 | Course of CC           | 11            | Manipulable                           |        |
+| 13 | Course Topics          | 9             | Manipulable                           |        |
+| 14 | Course Prerequiste     | 9             | Manipulable                           |        |
+| 15 | Course References      | 9             | Manipulable                           |        |
+| 16 | Course Resources       | 9             | Manipulable                           |        |
+| 17 | Course Development     | 9             | Manipulable                           |        |
+| 18 | Course Revision        | 9             | Manipulable                           |        |
 
 In planning:
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
