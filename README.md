@@ -19,6 +19,13 @@
 | 14 | Course Resources       | 8             | Manipulable                           |        |
 | 15 | Course Development     | 8             | Manipulable                           |        |
 | 16 | Course Revisions       | 8             | Manipulable                           |        |
+| 17 | Semester of Institutional  |           | Manipulable                           |        |
+| 18 | Course Marks           | 8, 17         | Uploadable                            |        |
+| 19 | Course Comments        | 8, 17         | Manipulable                           |        |
+| 20 | CC's Grant             | 10            | Manipulable                           |        |
+| 21 | CC's Community Service | 10            | Manipulable                           |        |
+| 22 | CC's Intellectual Property | 10        | Manipulable                           |        |
+| 23 | CC's Publication       | 10            | Manipulable                           |        |
 
 In planning:
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
