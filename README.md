@@ -6,7 +6,7 @@
 | 1  | Qualification          |               | Pre-loaded: C, D, B, M, P             | Done   |
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C, P, A     | Done   |
-| 4  | Institutional's PEO    |               | Manipulable                           | Done   |
+| 4  | PEO of Institutional   |               | Manipulable                           | Done   |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
