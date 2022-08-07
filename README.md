@@ -10,7 +10,7 @@
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
-| 8  | Courses of Programme   | 6             | Manipulable                           |        |
+| 8  | Courses of Programme   | 6             | Manipulable                           | Done   |
 | 9  | Courses of School      | 6             | Manipulable                           |        |
 | 10 | Course LO              | 9, 3, 7       | Manipulable                           |        |
 | 11 | Course Coordinators    | 9             | Manipulable                           |        |
