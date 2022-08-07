@@ -18,7 +18,7 @@
 | 13 | Course References      | 8             | Manipulable                           |        |
 | 14 | Course Resources       | 8             | Manipulable                           |        |
 | 15 | Course Development     | 8             | Manipulable                           |        |
-| 16 | Course Revision        | 8             | Manipulable                           |        |
+| 16 | Course Revisions       | 8             | Manipulable                           |        |
 
 In planning:
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
