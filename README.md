@@ -10,17 +10,15 @@
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
-| 8  | Courses of Programme   | 6             | Manipulable                           | Done   |
-| 9  | Courses of School      | 6             | Manipulable                           |        |
-| 10 | Course LO              | 9, 3, 7       | Manipulable                           |        |
-| 11 | Course Coordinators    | 9             | Manipulable                           |        |
-| 12 | Course of CC           | 11            | Manipulable                           |        |
-| 13 | Course Topics          | 9             | Manipulable                           |        |
-| 14 | Course Prerequiste     | 9             | Manipulable                           |        |
-| 15 | Course References      | 9             | Manipulable                           |        |
-| 16 | Course Resources       | 9             | Manipulable                           |        |
-| 17 | Course Development     | 9             | Manipulable                           |        |
-| 18 | Course Revision        | 9             | Manipulable                           |        |
+| 8  | Courses of Programme   | 5, 6          | Manipulable                           |        |
+| 9  | Course LO              | 8, 3, 7       | Manipulable                           |        |
+| 10 | Course Coordinators    | 8             | Manipulable                           |        |
+| 11 | Course Topics          | 8             | Manipulable                           |        |
+| 12 | Course Prerequiste     | 8             | Manipulable                           |        |
+| 13 | Course References      | 8             | Manipulable                           |        |
+| 14 | Course Resources       | 8             | Manipulable                           |        |
+| 15 | Course Development     | 8             | Manipulable                           |        |
+| 16 | Course Revision        | 8             | Manipulable                           |        |
 
 In planning:
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
