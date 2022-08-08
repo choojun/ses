@@ -35,3 +35,4 @@ In planning:
 * Preview the course structure (listed by programme - for QA use).
 * Preview/manipulate the Academic profile including achievements, grants, projects and publications (listed by programme - for QA, MyRA, Setara use).
 * Preview the Reference list (listed by programme and courses - for library, QA use). 
+* Preview CC's workload
