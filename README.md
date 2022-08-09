@@ -19,14 +19,15 @@
 | 14 | Course Resources       | 8             | Manipulable                           |        |
 | 15 | Course Development     | 8             | Manipulable                           |        |
 | 16 | Course Revisions       | 8             | Manipulable                           |        |
-| 17 | Semester of Institutional  |           | Manipulable                           |        |
-| 18 | Course Marks           | 8, 17         | Uploadable                            |        |
-| 19 | Course Survey          | 8, 17         | Uploadable                            |        |
-| 20 | Course Comments        | 8, 17         | Manipulable                           |        |
-| 21 | CC's Grant             | 10            | Manipulable                           |        |
-| 22 | CC's Community Service | 10            | Manipulable                           |        |
-| 23 | CC's Intellectual Property | 10        | Manipulable                           |        |
-| 24 | CC's Publication       | 10            | Manipulable                           |        |
+| 17 | Semester of Institutional      |           | Manipulable                           |        |
+| 18 | Assessment Weights     | 8, 17         | Manipulable                            |        |
+| 19 | Course Marks (std ID required  | 8, 17     | Uploadable                            |        |
+| 20 | Course Survey          | 8, 17         | Uploadable                            |        |
+| 21 | Course Comments        | 8, 17         | Manipulable                           |        |
+| 22 | CC's Grant             | 10            | Manipulable                           |        |
+| 23 | CC's Community Service | 10            | Manipulable                           |        |
+| 24 | CC's Intellectual Property     | 10        | Manipulable                           |        |
+| 25 | CC's Publication       | 10            | Manipulable                           |        |
 
 In planning:
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
@@ -35,4 +36,9 @@ In planning:
 * Preview the course structure (listed by programme - for QA use).
 * Preview/manipulate the Academic profile including achievements, grants, projects and publications (listed by programme - for QA, MyRA, Setara use).
 * Preview the Reference list (listed by programme and courses - for library, QA use). 
-* Preview CC's workload
+* Preview CC's workload, assuming CC is the lecturer & tutor of institution.
+* Preview individual course performance, measuring via the mapped CLO.
+* Preview continous course performance, inheriting the past with the current individualcourse achievement.
+* Preview individualprogramme performance, measuring via the mapped PLO-PEO.
+* Preview continous programme performance, inheriting the past with the current individualcourse achievement.
+* Preview individual student performance, measuring via the mapped CLO-PLO.
