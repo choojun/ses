@@ -29,14 +29,16 @@
 | 24 | CC's Intellectual Property     | 10        | Manipulable                           |        |
 | 25 | CC's Publication       | 10            | Manipulable                           |        |
 
-In planning:
+### Operational use modules (in planning)
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
 * Comments enter and preview of course presentation report and its summary
 * Preview the programme structure (listed by programme - for school, QA use).
 * Preview the course structure (listed by programme - for QA use).
-* Preview/manipulate the Academic profile including achievements, grants, projects and publications (listed by programme - for QA, MyRA, Setara use).
 * Preview the Reference list (listed by programme and courses - for library, QA use). 
 * Preview CC's workload, assuming CC is the lecturer & tutor of institution.
+
+### Impactful modules: (in planning)
+* Preview/manipulate the Academic profile including achievements, grants, projects and publications (listed by programme/CC - for QA, MyRA, Setara use).
 * Preview individual course performance, measuring via the mapped CLO.
 * Preview continous course performance, inheriting the past with the current individualcourse achievement.
 * Preview individualprogramme performance, measuring via the mapped PLO-PEO.
