@@ -10,8 +10,8 @@
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
-| 8  | Courses of Programme   | 5, 6          | Manipulable                           |        |
-| 9  | Course LO              | 8, 3, 7       | Manipulable                           |        |
+| 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
+| 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
 | 10 | Course Coordinators    | 8             | Manipulable                           |        |
 | 11 | Course Topics          | 8             | Manipulable                           |        |
 | 12 | Course Prerequiste     | 8             | Manipulable                           |        |
@@ -44,3 +44,6 @@
 * Preview individualprogramme performance, measuring via the mapped PLO-PEO.
 * Preview continous programme performance, inheriting the past with the current individualcourse achievement.
 * Preview individual student performance, measuring via the mapped CLO-PLO.
+
+
+
