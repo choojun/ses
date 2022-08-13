@@ -13,7 +13,7 @@
 | 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
 | 10 | Course Coordinator     | 8             | Manipulable                           | Done   |
-| 11 | Course Topic           | 8             | Manipulable                           |        |
+| 11 | Course Topic           | 8             | Manipulable                           | Done   |
 | 12 | Course Prerequiste     | 8             | Manipulable                           |        |
 | 13 | Course Reference       | 8             | Manipulable                           |        |
 | 14 | Course Resource        | 8             | Manipulable                           |        |
