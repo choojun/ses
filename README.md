@@ -12,18 +12,18 @@
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
 | 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
-| 10 | Course Coordinators    | 8             | Manipulable                           |        |
-| 11 | Course Topics          | 8             | Manipulable                           |        |
+| 10 | Course Coordinator     | 8             | Manipulable                           | Done   |
+| 11 | Course Topic           | 8             | Manipulable                           |        |
 | 12 | Course Prerequiste     | 8             | Manipulable                           |        |
-| 13 | Course References      | 8             | Manipulable                           |        |
-| 14 | Course Resources       | 8             | Manipulable                           |        |
+| 13 | Course Reference       | 8             | Manipulable                           |        |
+| 14 | Course Resource        | 8             | Manipulable                           |        |
 | 15 | Course Development     | 8             | Manipulable                           |        |
-| 16 | Course Revisions       | 8             | Manipulable                           |        |
+| 16 | Course Revision        | 8             | Manipulable                           |        |
 | 17 | Semester of Institutional      |           | Manipulable                           |        |
-| 18 | Assessment Weights     | 8, 17         | Manipulable                            |        |
+| 18 | Assessment Weight      | 8, 17         | Manipulable                            |        |
 | 19 | Course Marks (std ID required  | 8, 17     | Uploadable                            |        |
 | 20 | Course Survey          | 8, 17         | Uploadable                            |        |
-| 21 | Course Comments        | 8, 17         | Manipulable                           |        |
+| 21 | Course Comment         | 8, 17         | Manipulable                           |        |
 | 22 | CC's Grant             | 10            | Manipulable                           |        |
 | 23 | CC's Community Service | 10            | Manipulable                           |        |
 | 24 | CC's Intellectual Property     | 10        | Manipulable                           |        |
