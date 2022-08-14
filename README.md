@@ -7,18 +7,18 @@
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C, P, A     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
-| 4a | &nbsp;&nbsp; PEO-PLO mapping  |               | Viewable                              |        |
+| 4a | &nbsp; PEO-PLO mapping |               | Viewable                              |        |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
-| 5a | School-Programme mapping      |        | Viewable                              |        |
+| 5a | &nbsp; School-Programme mapping |      | Viewable                              |        |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
-| 6a | Programme-Course mapping      |        | Viewable                              |        |
+| 6a | &nbsp; Programme-Course mapping |      | Viewable                              |        |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
-| 7a | PLO-CLO mapping        |               | Viewable                              |        |
+| 7a | &nbsp; PLO-CLO mapping |               | Viewable                              |        |
 | 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
-| 8a | Course-Topic mapping   |               | Viewable                              |        |
+| 8a | &nbsp; Course-Topic mapping            | Viewable                              |        |
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
 | 10 | Course Coordinator (staff ID required) | 8 | Manipulable                       | Done   |
-| 10a| Course-Coordinator mapping (workload)  |   | Viewable                          |        |
+| 10a| &nbsp; Course-Coordinator mapping (workload)  |   | Viewable                   |        |
 | 11 | Course Topic           | 8             | Manipulable                           | Done   |
 | 12 | Course Prerequiste     | 8             | Manipulable                           | Done   |
 | 13 | Course Reference       | 8             | Manipulable                           | Done   |
