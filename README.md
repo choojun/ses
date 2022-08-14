@@ -25,7 +25,7 @@
 | 14 | Course Resource        | 8             | Manipulable                           | Done   |
 | 15 | Course Development     | 8             | Manipulable                           | Done   |
 | 16 | Course Revision        | 8             | Manipulable                           | Done   |
-| 17 | Semester of Institutional      |       | Manipulable                           |        |
+| 17 | Semester of Institutional      |       | Manipulable                           | Done   |
 | 18 | Assessment Weight      | 8, 17         | Manipulable                           |        |
 | 19 | Course Marks (std ID required) | 8, 17 | Uploadable                            |        |
 | 20 | Course Survey          | 8, 17         | Uploadable                            |        |
