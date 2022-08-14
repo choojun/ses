@@ -7,17 +7,18 @@
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C, P, A     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
-|    | PEO-PLO mapping        |               | Viewable                              |        |
+| 4a | PEO-PLO mapping        |               | Viewable                              |        |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
-|    | School-Programme mapping      |        | Viewable                              |        |
+| 5a | School-Programme mapping      |        | Viewable                              |        |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
-|    | Programme-Course mapping      |        | Viewable                              |        |
+| 6a | Programme-Course mapping      |        | Viewable                              |        |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
-|    | PLO-CLO mapping        |               | Viewable                              |        |
+| 7a | PLO-CLO mapping        |               | Viewable                              |        |
 | 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
-|    | Course-Topic mapping   |               | Viewable                              |        |
+| 8a | Course-Topic mapping   |               | Viewable                              |        |
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
-| 10 | Course Coordinator     | 8             | Manipulable                           | Done   |
+| 10 | Course Coordinator (staff ID required) | 8 | Manipulable                       | Done   |
+| 10a| Course-Coordinator mapping (workload)  |   | Viewable                          |        |
 | 11 | Course Topic           | 8             | Manipulable                           | Done   |
 | 12 | Course Prerequiste     | 8             | Manipulable                           | Done   |
 | 13 | Course Reference       | 8             | Manipulable                           | Done   |
@@ -26,7 +27,7 @@
 | 16 | Course Revision        | 8             | Manipulable                           | Done   |
 | 17 | Semester of Institutional      |       | Manipulable                           |        |
 | 18 | Assessment Weight      | 8, 17         | Manipulable                           |        |
-| 19 | Course Marks (std ID required  | 8, 17 | Uploadable                            |        |
+| 19 | Course Marks (std ID required) | 8, 17 | Uploadable                            |        |
 | 20 | Course Survey          | 8, 17         | Uploadable                            |        |
 | 21 | Course Comment         | 8, 17         | Manipulable                           |        |
 | 22 | Grant and Fund         | 10            | Manipulable                           |        |
