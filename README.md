@@ -17,8 +17,8 @@
 | 12 | Course Prerequiste     | 8             | Manipulable                           | Done   |
 | 13 | Course Reference       | 8             | Manipulable                           | Done   |
 | 14 | Course Resource        | 8             | Manipulable                           | Done   |
-| 15 | Course Development     | 8             | Manipulable                           |        |
-| 16 | Course Revision        | 8             | Manipulable                           |        |
+| 15 | Course Development     | 8             | Manipulable                           | Done   |
+| 16 | Course Revision        | 8             | Manipulable                           | Done   |
 | 17 | Semester of Institutional      |       | Manipulable                           |        |
 | 18 | Assessment Weight      | 8, 17         | Manipulable                           |        |
 | 19 | Course Marks (std ID required  | 8, 17 | Uploadable                            |        |
