@@ -7,10 +7,15 @@
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C, P, A     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
+|    | PEO-PLO mapping        |               | Viewable                              |        |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
+|    | School-Programme mapping      |        | Viewable                              |        |
 | 6  | Programme of School    | 1             | Manipulable                           | Done   |
+|    | Programme-Course mapping      |        | Viewable                              |        |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
+|    | PLO-CLO mapping        |               | Viewable                              |        |
 | 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
+|    | Course-Topic mapping   |               | Viewable                              |        |
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
 | 10 | Course Coordinator     | 8             | Manipulable                           | Done   |
 | 11 | Course Topic           | 8             | Manipulable                           | Done   |
