@@ -14,9 +14,9 @@
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
 | 10 | Course Coordinator     | 8             | Manipulable                           | Done   |
 | 11 | Course Topic           | 8             | Manipulable                           | Done   |
-| 12 | Course Prerequiste     | 8             | Manipulable                           |        |
-| 13 | Course Reference       | 8             | Manipulable                           |        |
-| 14 | Course Resource        | 8             | Manipulable                           |        |
+| 12 | Course Prerequiste     | 8             | Manipulable                           | Done   |
+| 13 | Course Reference       | 8             | Manipulable                           | Done   |
+| 14 | Course Resource        | 8             | Manipulable                           | Done   |
 | 15 | Course Development     | 8             | Manipulable                           |        |
 | 16 | Course Revision        | 8             | Manipulable                           |        |
 | 17 | Semester of Institutional      |       | Manipulable                           |        |
