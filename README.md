@@ -3,14 +3,16 @@
 
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
-| 1  | Qualification          |               | Pre-loaded: C, D, B, M, P             | Done   |
+| 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
+| 1b | Level (Engagement)     |               | Pre-loaded: University, National, International, Industry     | Done   |
+| 1c | Type (Research/Work)   |               | Pre-loaded: Science, Non-Science      | Done   |
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C(6), P(7), A(5)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
 | 4a | &nbsp; PEO-PLO         |               | Viewable mapping                      |        |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 5a | &nbsp; School-Programme|               | Viewable mapping                      |        |
-| 6  | Programme of School    | 1             | Manipulable                           | Done   |
+| 6  | Programme of School    | 1a            | Manipulable                           | Done   |
 | 6a | &nbsp; Programme-Course|               | Viewable mapping                      |        |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
 | 7a | &nbsp; PLO-CLO         |               | Viewable mapping                      |        |
