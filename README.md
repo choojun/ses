@@ -1,5 +1,5 @@
 # School Eco-System (SES)
-## An OBE-based System for Education Institutional
+## An OBE-based System of Education Institutional
 
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
