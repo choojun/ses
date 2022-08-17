@@ -1,5 +1,5 @@
 # School Eco-System (SES)
-## The OBE-based Eco-System for Education Institutional
+## An OBE-based System for Education Institutional
 
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
@@ -32,7 +32,7 @@
 | 19 | Course Marks (std ID required) | 8, 17 | Uploadable                            |        |
 | 20 | Course Survey          | 8, 17         | Uploadable                            |        |
 | 21 | Course Comment         | 8, 17         | Manipulable                           |        |
-| 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           |        |
+| 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           | Done   |
 | 23 | Community Service      | 10            | Manipulable                           |        |
 | 24 | Intellectual Property  | 10            | Manipulable                           |        |
 | 25 | Publication            | 10            | Manipulable                           |        |
