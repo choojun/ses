@@ -33,7 +33,7 @@
 | 20 | Course Survey          | 8, 17         | Uploadable                            |        |
 | 21 | Course Comment         | 8, 17         | Manipulable                           |        |
 | 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           | Done   |
-| 23 | Community Service      | 10, 1b        | Manipulable                           |        |
+| 23 | Community Service      | 10, 1b        | Manipulable                           | Done   |
 | 24 | Intellectual Property  | 10, 1b        | Manipulable                           |        |
 | 25 | Membership             | 10, 1b        | Manipulable                           |        |
 | 26 | Memorandum             | 10, 1b        | Manipulable                           |        |
