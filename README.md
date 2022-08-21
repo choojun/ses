@@ -1,6 +1,25 @@
 # School Eco-System (SES)
 ## An OBE-based System of Education Institutional
 
+### Deploment Platform for SES
+A list of potential platforms (for production use), which you may consider them, is listed as follows.
+1. [Cloud Foundry](https://www.cloudfoundry.org/)
+2. [Kubernetes](https://kubernetes.io/)
+3. [Heroku](https://www.heroku.com/)
+4. [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+5. [Amazon Web Services (AWS)](https://aws.amazon.com/)
+6. [CloudCaptain](https://cloudcaptain.sh/)
+7. [Azure](https://azure.microsoft.com/en-us/)
+8. [Google Cloud](https://cloud.google.com/)
+
+Details of deployment into these platform are available at URL https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html . The standalone-use as well as development-use are tested (with Oracle J2SE 11.x) in the following operating system.
+1. Microsoft Windows 10
+2. Linux: Ubuntu 22.x.x LTS
+3. Apple MacOS 12.5
+4. Oracle Solaris 11.4.x
+
+### Modules of SES
+
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
 | 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
