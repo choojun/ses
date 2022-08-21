@@ -4,7 +4,7 @@
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
 | 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
-| 1b | Level (Engagement)     |               | Pre-loaded: University, National, International, Industry (Private/NGO)| Done   |
+| 1b | Level (Engagement)     |               | Pre-loaded: University, National, International, Industry (Private/NGO), Community, Agency | Done   |
 | 1c | Type (Research/Work)   |               | Pre-loaded: Science, Non-Science      | Done   |
 | 1d | Collabration Type (Agreement)  |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
