@@ -37,7 +37,7 @@
 | 23 | Community Service      | 10, 1b        | Manipulable                           | Done   |
 | 24 | Intellectual Property  | 10, 1b        | Manipulable                           |        |
 | 25 | Membership             | 10, 1b        | Manipulable                           |        |
-| 26 | Memorandum             | 10, 1b        | Manipulable                           |        |
+| 26 | Memorandum             | 10, 1b, 1d    | Manipulable                           |        |
 | 27 | Award                  | 10, 1b        | Manipulable                           |        |
 | 28 | Publication            | 10            | Manipulable                           |        |
 
