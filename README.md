@@ -6,6 +6,7 @@
 | 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
 | 1b | Level (Engagement)     |               | Pre-loaded: University, National, International, Industry (Private/NGO)| Done   |
 | 1c | Type (Research/Work)   |               | Pre-loaded: Science, Non-Science      | Done   |
+| 1d | Collation Type (Agreement)     |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C(6), P(7), A(5)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
