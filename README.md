@@ -12,11 +12,11 @@ A list of potential platforms (for production use), which you may consider them,
 7. [Azure](https://azure.microsoft.com/en-us/)
 8. [Google Cloud](https://cloud.google.com/)
 
-Details of deployment into these platform are available at URL https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html . The standalone-use as well as development-use are tested (with Oracle J2SE 11.x) in the following operating system.
-1. Microsoft Windows 10
-2. Linux: Ubuntu 22.x.x LTS
-3. Apple MacOS 12.5
-4. Oracle Solaris 11.4.x
+Details of deployment into these platform are available at URL https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html . The standalone-use as well as development-use are tested, i.e. with Oracle J2SE 11.x with respective web browser) in the following operating system.
+1. Microsoft Windows 10 - Microsoft Edge, Mozilla Firefox, Google Chrome
+2. Linux: Ubuntu 22.x.x LTS - Mozilla Firefox, Google Chrome
+3. Apple MacOS 12.5 - Apple Safari (Desktop and iOS version), Mozilla Firefox, Google Chrome
+4. Oracle Solaris 11.4.x - Mozilla Firefox
 
 ### Modules of SES
 
