@@ -1,7 +1,7 @@
 # School Eco-System (SES)
 ## An OBE-based System of Education Institutional
 
-### Deploment Platform for SES
+### Deploment Platform
 A list of potential platforms (for production use), which you may consider them, is listed as follows.
 1. [Cloud Foundry](https://www.cloudfoundry.org/)
 2. [Kubernetes](https://kubernetes.io/)
@@ -17,6 +17,8 @@ Details of deployment into these platform are available at URL https://docs.spri
 2. Linux: Ubuntu 22.x.x LTS - Mozilla Firefox, Google Chrome
 3. Apple MacOS 12.5 - Apple Safari (Desktop and iOS version), Mozilla Firefox, Google Chrome
 4. Oracle Solaris 11.4.x - Mozilla Firefox
+
+SES adopts the Spring Framework in its design and development. As such, SES inherite the support on working with SQL databases, specifically using the direct JDBC access with JdbcTemplate to complete 'object relational mapping' technologies, namely as Hibernate. Note that SES is developed using an in-memory embedded database, namely as [H2](https://www.h2database.com). Obviously, in-memory databases do not provide persistent storage. As such, you need to migrate the existing H2 database to your preferred database in the production enviroment. Remember to load your initial data during the database deployment.
 
 ### Modules of SES
 
