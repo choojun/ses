@@ -1,7 +1,7 @@
 # School Eco-System (SES)
 ## An OBE-based System of Education Institutional
 
-### Deploment Platform
+### A. Deployment Platform
 A list of potential platforms (for production use), which you may consider them, is listed as follows.
 1. [Cloud Foundry](https://www.cloudfoundry.org/)
 2. [Kubernetes](https://kubernetes.io/)
@@ -20,7 +20,7 @@ Details of deployment into these platform are available at URL https://docs.spri
 
 SES adopts the Spring Framework in its design and development. As such, SES inherite the support on working with SQL databases, specifically using the direct JDBC access with JdbcTemplate to complete 'object relational mapping' technologies, namely as Hibernate. Note that SES is developed using an in-memory embedded database, namely as [H2](https://www.h2database.com). Obviously, in-memory databases do not provide persistent storage. As such, you need to migrate the existing H2 database to your preferred database in the production enviroment. Remember to load your initial data during the database deployment.
 
-### Modules of SES
+### B. Modules of SES
 
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
@@ -62,7 +62,7 @@ SES adopts the Spring Framework in its design and development. As such, SES inhe
 | 27 | Award                  | 10, 1b        | Manipulable                           |        |
 | 28 | Publication            | 10            | Manipulable                           |        |
 
-### Operational use modules (in planning)
+### C. Operational use modules (in planning)
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
 * Comments enter and preview of course presentation report and its summary
 * Preview the programme structure (listed by programme - for school, QA use).
@@ -70,7 +70,7 @@ SES adopts the Spring Framework in its design and development. As such, SES inhe
 * Preview the Reference list (listed by programme and courses - for library, QA use). 
 * Preview CC's workload, assuming CC is the lecturer & tutor of institution.
 
-### Impactful modules: (in planning)
+### D. Impactful modules: (in planning)
 * Preview/manipulate the Academic profile including achievements, grants, projects and publications (listed by programme/CC - for QA, MyRA, Setara use).
 * Preview individual course performance, measuring via the mapped CLO.
 * Preview continous course performance, inheriting the past with the current individualcourse achievement.
