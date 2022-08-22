@@ -34,7 +34,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 8. Pre-Authentication Scenarios - authenticate with an external mechanism such as SiteMinder or Java EE security but still use Spring Security for authorization and protection against common exploits.
 9. X509 Authentication
 
-Read more on the integration at URL https://docs.spring.io/spring-security/reference/servlet/authentication/index.html
+**Read more on the todo security integration** at URL https://docs.spring.io/spring-security/reference/servlet/authentication/index.html
 
 ### B. Modules of SES
 
