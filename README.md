@@ -20,7 +20,21 @@ Details of deployment into these platform are available at URL https://docs.spri
 
 ![33265](https://user-images.githubusercontent.com/6356054/185901261-81af0a65-5527-4e2d-b464-93affbf665eb.png)
 
-SES adopts the Spring Framework in its design and development. As such, SES inherites the support on working with SQL databases, specifically using the direct JDBC access with JdbcTemplate to complete 'object relational mapping' technologies, namely as [Hibernate](https://hibernate.org/). Note that SES is developed using an in-memory embedded database, namely as [H2](https://www.h2database.com). Obviously, in-memory databases do not provide persistent storage. **Therefore, you need to migrate the existing H2 database to your preferred database in the production enviroment. Remember to load it with your own initial data.**
+SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) in its design and development. As such, SES inherites the support on working with SQL databases, specifically using the direct JDBC access with JdbcTemplate to complete 'object relational mapping' technologies, namely as [Hibernate](https://hibernate.org/). Note that SES is developed using an in-memory embedded database, namely as [H2](https://www.h2database.com). Obviously, in-memory databases do not provide persistent storage. **Therefore, you need to migrate the existing H2 database to your preferred database in the production enviroment. Remember to load it with your own initial data.**
+
+[Spring Security](https://docs.spring.io/spring-security/reference/index.html) provides comprehensive support for Authentication. It offers the Servlet-based Authentication Architecture. There is a list of authentication mechanisms, which users can authenticate, for your consideration in SES as follows. 
+
+1. Username and Password - how to authenticate with a username/password
+2. OAuth 2.0 Login 
+3. SAML 2.0 Login
+4. [Central Authentication Service (CAS)](https://github.com/apereo/cas)
+5. Remember Me - how to remember a user past session expiration
+6. Java Authentication and Authorization Service (JAAS) Authentication
+7. [OpenID](https://openid.net/) Authentication (not to be confused with OpenID Connect)
+8. Pre-Authentication Scenarios - authenticate with an external mechanism such as SiteMinder or Java EE security but still use Spring Security for authorization and protection against common exploits.
+9. X509 Authentication
+
+Read more on the integration at URL https://docs.spring.io/spring-security/reference/servlet/authentication/index.html
 
 ### B. Modules of SES
 
