@@ -18,7 +18,9 @@ Details of deployment into these platform are available at URL https://docs.spri
 3. Apple MacOS 12.5 - Apple Safari (Desktop and iOS version), Mozilla Firefox, Google Chrome
 4. Oracle Solaris 11.4.x - Mozilla Firefox
 
-SES adopts the Spring Framework in its design and development. As such, SES inherite the support on working with SQL databases, specifically using the direct JDBC access with JdbcTemplate to complete 'object relational mapping' technologies, namely as Hibernate. Note that SES is developed using an in-memory embedded database, namely as [H2](https://www.h2database.com). Obviously, in-memory databases do not provide persistent storage. As such, you need to migrate the existing H2 database to your preferred database in the production enviroment. Remember to load your initial data during the database deployment.
+![33265](https://user-images.githubusercontent.com/6356054/185901261-81af0a65-5527-4e2d-b464-93affbf665eb.png)
+
+SES adopts the Spring Framework in its design and development. As such, SES inherites the support on working with SQL databases, specifically using the direct JDBC access with JdbcTemplate to complete 'object relational mapping' technologies, namely as [Hibernate](https://hibernate.org/). Note that SES is developed using an in-memory embedded database, namely as [H2](https://www.h2database.com). Obviously, in-memory databases do not provide persistent storage. **Therefore, you need to migrate the existing H2 database to your preferred database in the production enviroment. Remember to load it with your own initial data.**
 
 ### B. Modules of SES
 
@@ -79,4 +81,5 @@ SES adopts the Spring Framework in its design and development. As such, SES inhe
 * Preview individual student performance, measuring via the mapped CLO-PLO.
 
 
-
+### Z. References
+1. Adapted image: https://openclipart.org/detail/33265/liste-list
