@@ -41,7 +41,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | No | Module                 | Linked Module | Remark                                | Status |
 |----|------------------------|---------------|---------------------------------------|--------|
 | 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
-| 1b | Level (Engagement)     |               | Pre-loaded: University, National, International, Industry (Private/NGO), Community, Agency | Done   |
+| 1b | Level (Engagement)     |               | Pre-loaded: University, State, National, International, Community, Industry (Private/NGO/Semi-GOV), Agency (Private/NGO/Semi-GOV), Professional Body (Private/NGO/Semi-GOV), Association (Private/NGO/Semi-GOV) | Done   |
 | 1c | Type (Research/Work)   |               | Pre-loaded: Science, Non-Science      | Done   |
 | 1d | Collabration (Agreement)       |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
 | 1e | Position (Appointment)         |       | Pre-loaded: Chairman, Board Member, Committee Member, Member, Life Member    | Done   | 
