@@ -74,7 +74,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           | Done   |
 | 23 | Community Service      | 10, 1b        | Manipulable                           | Done   |
 | 24 | Intellectual Property  | 10, 1b        | Manipulable                           |        |
-| 25 | Membership             | 10, 1b, 1e    | Manipulable                           |        |
+| 25 | Membership             | 10, 1b, 1e    | Manipulable                           | Done   |
 | 26 | Memorandum             | 10, 1b, 1d    | Manipulable                           | Done   |
 | 27 | Award                  | 10, 1b        | Manipulable                           |        |
 | 28 | Publication            | 10            | Manipulable                           |        |
