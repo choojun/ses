@@ -43,7 +43,8 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
 | 1b | Level (Engagement)     |               | Pre-loaded: University, National, International, Industry (Private/NGO), Community, Agency | Done   |
 | 1c | Type (Research/Work)   |               | Pre-loaded: Science, Non-Science      | Done   |
-| 1d | Collabration Type (Agreement)  |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
+| 1d | Collabration (Agreement)       |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
+| 1e | Position (Appointment)         |       | Pre-loaded: Chairman, Board Member, Committee Member, Member, Life Member    | Done   | 
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C(6), P(7), A(5)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
@@ -73,7 +74,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           | Done   |
 | 23 | Community Service      | 10, 1b        | Manipulable                           | Done   |
 | 24 | Intellectual Property  | 10, 1b        | Manipulable                           |        |
-| 25 | Membership             | 10, 1b        | Manipulable                           |        |
+| 25 | Membership             | 10, 1b, 1e    | Manipulable                           |        |
 | 26 | Memorandum             | 10, 1b, 1d    | Manipulable                           | Done   |
 | 27 | Award                  | 10, 1b        | Manipulable                           |        |
 | 28 | Publication            | 10            | Manipulable                           |        |
