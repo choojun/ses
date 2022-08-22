@@ -42,9 +42,10 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 |----|------------------------|---------------|---------------------------------------|--------|
 | 1a | Qualification          |               | Pre-loaded: Certificate, Diploma, Bachelor, Master, Doctoral  | Done   |
 | 1b | Level (Engagement)     |               | Pre-loaded: University, State, National, International, Community, Industry (Private/NGO/Semi-GOV), Agency (Private/NGO/Semi-GOV), Professional Body (Private/NGO/Semi-GOV), Association (Private/NGO/Semi-GOV) | Done   |
-| 1c | Type (Research/Work)   |               | Pre-loaded: Science, Non-Science      | Done   |
+| 1c | Type of Research (Work)        |       | Pre-loaded: Science, Non-Science      | Done   |
 | 1d | Collabration (Agreement)       |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
 | 1e | Position (Appointment)         |       | Pre-loaded: Chairman, Board Member, Committee Member, Member, Life Member    | Done   | 
+| 1f | Type of Award (Recognition)    |       | Pre-loaded: Award, Recognition, Stewardship    | Done   |
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C(6), P(7), A(5)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
@@ -76,7 +77,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 24 | Intellectual Property  | 10, 1b        | Manipulable                           |        |
 | 25 | Membership             | 10, 1b, 1e    | Manipulable                           | Done   |
 | 26 | Memorandum             | 10, 1b, 1d    | Manipulable                           | Done   |
-| 27 | Award                  | 10, 1b        | Manipulable                           |        |
+| 27 | Award                  | 10, 1b, 1f    | Manipulable                           | Done   |
 | 28 | Publication            | 10            | Manipulable                           |        |
 
 ### C. Operational use modules (in planning)
