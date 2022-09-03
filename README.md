@@ -46,7 +46,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 1d | Collabration (Agreement)       |       | Pre-loaded: MoA, MoU, LoA, RA         | Done   | 
 | 1e | Position (Appointment)         |       | Pre-loaded: Chairman, Board Member, Committee Member, Member, Life Member    | Done   | 
 | 1f | Type of Award (Recognition)    |       | Pre-loaded: Award, Recognition, Stewardship    | Done   |
-| 1g | Type of Intellecture Property  |       | Pre-loaded: Copyright, Trademark, Industrial Design, Patent    | Done   |
+| 1g | Type of Intellecture Property  |       | Pre-loaded: Copyright, Trademark, Industrial Design, Patent, Commercialized Product, Technology Know-how Licensed and Sold Outright, Spinoff Company of Commercialized Products    | Done   |
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: C(6), P(7), A(5)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
