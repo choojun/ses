@@ -71,8 +71,8 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 17 | Semester of Institutional      |       | Manipulable                           | Done   |
 | 18 | Assessment Weight      | 8, 17         | Manipulable                           |        |
 | 19 | Course Marks (std ID required) | 8, 17 | Uploadable                            |        |
-| 20 | Course Survey          | 8, 17         | Uploadable                            |        |
-| 21 | Course Comment         | 8, 17         | Manipulable                           |        |
+| 20 | Course Presentation Survey     | 8, 17         | Uploadable                            |        |
+| 21 | Course Presentation Comment    | 8, 17         | Manipulable                           |        |
 | 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           | Done   |
 | 23 | Community Service      | 10, 1b        | Manipulable                           | Done   |
 | 24 | Intellectual Property  | 10, 1b, 1g    | Manipulable                           | Done   |
