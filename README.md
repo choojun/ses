@@ -51,7 +51,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains - Knowledge & Understanding, Cognitive Skills, Practical Skills, Interpersonal Skills, Communication Skills, Digital Skills, Numeracy Skills, Leadership, Autonomy & Responsibility, Personal Skills, Entrepreneurial Skills, Ethics & Professionalism  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: Cognitive (6 - Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation), Psychomotor (7 - Perception, Set, Guided Response, Mechanism, Complex Overt Response, Adaptation, Orgination), Affective (5 - Receiving, Responding, Valuing, Organising, Characterising)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
-| 4a | &nbsp; PEO-PLO         |               | Viewable mapping                      |        |
+| 4a | &#8594; PEO-PLO         |               | Viewable mapping                      |        |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
 | 5a | &nbsp; School-Programme|               | Viewable mapping                      |        |
 | 6  | Programme of School    | 1a            | Manipulable                           | Done   |
