@@ -51,18 +51,18 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains - Knowledge & Understanding, Cognitive Skills, Practical Skills, Interpersonal Skills, Communication Skills, Digital Skills, Numeracy Skills, Leadership, Autonomy & Responsibility, Personal Skills, Entrepreneurial Skills, Ethics & Professionalism  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: Cognitive (6 - Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation), Psychomotor (7 - Perception, Set, Guided Response, Mechanism, Complex Overt Response, Adaptation, Orgination), Affective (5 - Receiving, Responding, Valuing, Organising, Characterising)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
-| 4a | &#8594; PEO-PLO         |               | Viewable mapping                      |        |
+| 4a | &#8594; PEO-PLO        |               | Viewable mapping                      |        |
 | 5  | Schools of Institution |               | Manipulable                           | Done   |
-| 5a | &nbsp; School-Programme|               | Viewable mapping                      |        |
+| 5a | &#8594; School-Programme|               | Viewable mapping                      |        |
 | 6  | Programme of School    | 1a            | Manipulable                           | Done   |
-| 6a | &nbsp; Programme-Course|               | Viewable mapping                      |        |
+| 6a | &#8594; Programme-Course|               | Viewable mapping                      |        |
 | 7  | Programme LO           | 6, 2          | Manipulable                           | Done   |
-| 7a | &nbsp; PLO-CLO         |               | Viewable mapping                      |        |
+| 7a | &#8594; PLO-CLO        |               | Viewable mapping                      |        |
 | 8  | Courses of Programme   | 5, 6          | Manipulable                           | Done   |
-| 8a | &nbsp; Course-Topic    |               | Viewable mapping                      |        |
+| 8a | &#8594; Course-Topic   |               | Viewable mapping                      |        |
 | 9  | Course LO              | 8, 3, 7       | Manipulable                           | Done   |
 | 10 | Course Coordinator (staff ID required) | 8 | Manipulable                       | Done   |
-| 10a| &nbsp; Course-Coordinator      |       | Viewable mapping (workload)           |        |
+| 10a| &#8594; Course-Coordinator      |       | Viewable mapping (workload)           |        |
 | 11 | Course Topic           | 8             | Manipulable                           | Done   |
 | 12 | Course Prerequiste     | 8             | Manipulable                           | Done   |
 | 13 | Course Reference       | 8             | Manipulable                           | Done   |
