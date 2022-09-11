@@ -47,7 +47,7 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 1e | Position (Appointment)         |       | Pre-loaded: Chairman, Board Member, Committee Member, Member, Life Member    | Done   | 
 | 1f | Type of Award (Recognition)    |       | Pre-loaded: Award, Recognition, Stewardship    | Done   |
 | 1g | Type of Intellecture Property  |       | Pre-loaded: Copyright, Trademark, Industrial Design, Patent, Commercialized Product, Technology Know-how Licensed and Sold Outright, Spinoff Company of Commercialized Products    | Done   |
-| 1h | Type of Publication            |       | Pre-loaded: Book, Book Chapter, Journal Entry, Proceeding, Other    | Done   |
+| 1h | Type of Publication            |       | Pre-loaded: Book, Book Chapter, Journal, Proceeding, Other    | Done   |
 | 2  | MQA MQF's Domain       |               | Pre-loaded & Manipulable: 11 domains - Knowledge & Understanding, Cognitive Skills, Practical Skills, Interpersonal Skills, Communication Skills, Digital Skills, Numeracy Skills, Leadership, Autonomy & Responsibility, Personal Skills, Entrepreneurial Skills, Ethics & Professionalism  | Done   |
 | 3  | Bloom's Taxonomy       |               | Pre-loaded & Manipulable: Cognitive (6 - Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation), Psychomotor (7 - Perception, Set, Guided Response, Mechanism, Complex Overt Response, Adaptation, Orgination), Affective (5 - Receiving, Responding, Valuing, Organising, Characterising)     | Done   |
 | 4  | PEO of Institutional   |               | Manipulable                           | Done   |
@@ -72,15 +72,15 @@ SES adopts the [Spring Framework](https://spring.io/projects/spring-framework) i
 | 17 | Semester of Institutional      |       | Manipulable                           | Done   |
 | 18 | Assessment Weight      | 8, 17         | Manipulable                           |        |
 | 19 | Course Marks (std ID required) | 8, 17 | Uploadable                            |        |
-| 20 | Course Presentation Survey     | 8, 17         | Uploadable                            |        |
-| 21 | Course Presentation Comment    | 8, 17         | Manipulable                           |        |
+| 20 | Course Presentation Survey     | 8, 17 | Uploadable                            |        |
+| 21 | Course Presentation Comment    | 8, 17 | Manipulable                           |        |
 | 22 | Grant and Fund         | 10, 1b, 1c    | Manipulable                           | Done   |
 | 23 | Community Service      | 10, 1b        | Manipulable                           | Done   |
 | 24 | Intellectual Property  | 10, 1b, 1g    | Manipulable                           | Done   |
 | 25 | Membership             | 10, 1b, 1e    | Manipulable                           | Done   |
 | 26 | Memorandum             | 10, 1b, 1d    | Manipulable                           | Done   |
 | 27 | Award                  | 10, 1b, 1f    | Manipulable                           | Done   |
-| 28 | Publication            | 10, 1h        | Manipulable                           |        |
+| 28 | Publication            | 10, 1h        | Manipulable                           | Done   |
 
 ### C. Operational use modules (in planning)
 * Data import/upload/enter, i.e. (1) course-examination marks from Registry and (2) survey of courses, after each Examination Board meeting (before the end of semester)
